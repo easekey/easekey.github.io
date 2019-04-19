@@ -24,13 +24,13 @@ keywords: 骗局, 乳酸菌, 自闭症, 金锋
 
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCE998299a7aa1a0e81d6b138eb362f81ef/950)
 
-那我们通过国家知识产权局来查一下NS乳酸菌的发明者金锋在中国专利局提交了哪些发明专利申请。金锋作为发明人一共具有6件发明专利申请，专利列表如下图所示(附：[国家知识产权局专利检索地址](https://dwz.cn/s2S2vBBJ)），除了一件已经被驳回（无专利权）以外，目前剩余的5篇专利都在实审阶段。也即是说**<font color=red>目前金锋并没有获得授权的专利</font>**（均在审核中，不可预测是否能够通过）。
+那我们通过国家知识产权局来查一下NS乳酸菌的发明者金锋在中国专利局提交了哪些发明专利申请。金锋作为发明人一共具有6件发明专利申请，专利列表如下图所示(附：[国家知识产权局专利检索地址](https://dwz.cn/s2S2vBBJ)），除了一件已经被驳回（无专利权）以外，目前剩余的5篇专利都在实审阶段。也即是说<font color=red>目前金锋并没有获得授权的专利</font>（均在审核中，不可预测是否能够通过）。
 
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCEa1b49cffd8538761258397a79738fed2/955)
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCEfd3d568f15294da77ae3bb13acb825d8/959)
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCEa2561beecab3b7dc799e81400731e94d/963)
 
-**<font color=red>那我们来看看于治疗自闭症最相关的仅有的1篇专利申请究竟是个什么“高深”的技术</font>**。与治疗自闭症最相关的仅有的一篇专利申请[《[发明] 用于治疗自闭症患者的益生菌 - 201811040630.6》](http://www.soopat.com/Patent/201811040630)中提到：“1. 用于治疗自闭症患者的益生菌，其特征在于：包括<u>瑞士乳杆菌或发酵乳杆菌</u>，以及含有所属的<u>瑞士乳杆菌、发酵乳杆菌的复合微生物制剂</u>。”
+**那我们来看看于治疗自闭症最相关的仅有的1篇专利申请究竟是个什么“高深”的技术**。与治疗自闭症最相关的仅有的一篇专利申请[《[发明] 用于治疗自闭症患者的益生菌 - 201811040630.6》](http://www.soopat.com/Patent/201811040630)中提到：“1. 用于治疗自闭症患者的益生菌，其特征在于：包括<u>瑞士乳杆菌或发酵乳杆菌</u>，以及含有所属的<u>瑞士乳杆菌、发酵乳杆菌的复合微生物制剂</u>。”
 
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCEc1b260988e1a8fa4ebca7cbe53b7b265/969)
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCE9c100855f4825022e20be87ad37f2810/972)
@@ -68,7 +68,7 @@ keywords: 骗局, 乳酸菌, 自闭症, 金锋
 
 “原料均是本领域生产中**常用**原料，均可从市场中得到，各设备的操作、参数均按照**常规**操作进行，**并无特别之处**。”
 
-WTF？原来都是市场中**普通的原料和常规操作**！那用这些普通的原料和常规操作制造出来的NS乳酸菌需要多少成本，**<font color=red>几十元最多上百元的成本能够卖到上千元吗？利用自闭症家长的焦虑和爱子心切来谋取暴利真的不会遭天谴吗？</font>**
+WTF？原来都是市场中**普通的原料和常规操作**！那用这些普通的原料和常规操作制造出来的NS乳酸菌需要多少成本，<font color=red>几十元最多上百元的成本能够卖到上千元吗？利用自闭症家长的焦虑和爱子心切来谋取暴利真的不会遭天谴吗？</font>
 
 #### 再次总结如下：
 1. **金锋团队目前并没有<u>已授权的专利</u>，均为实审阶段或已被驳回。**
@@ -224,4 +224,4 @@ WTF？原来都是市场中**普通的原料和常规操作**！那用这些普�
 
 遭遇自闭症儿童的家庭已经负担甚重了，再被逐利者以十倍百倍的价格卖出神药，逐利者吃着沾人血的馒头，但是自闭症家长可能就被这最后一根稻草压垮了。
 
-**<font color=red>谨以此文告诫家长们，谨慎谨慎再谨慎，对于神药更要多留神。</font>**
+<font color=red>谨以此文告诫家长们，谨慎谨慎再谨慎，对于神药更要多留神。</font>
