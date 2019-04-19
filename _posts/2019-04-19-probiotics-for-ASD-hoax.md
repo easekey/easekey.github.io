@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NS乳酸菌？神药or人血馒头
+title: Probiotics For ASD hoax
 categories: 骗局
 description: 抽丝剥茧看高价益生菌真相
 keywords: 骗局, 乳酸菌, 自闭症, 金锋
