@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://getease.github.io/
 date_format: "ordinal"
-title: 九九叔
-subtitle: 九九叔的github之家
-description: 九九叔的github之家
-keywords: 九九叔, JiuJiuShu, jjslogin, JiuJiuShu
+title: 程序员正义联盟
+subtitle: 程序员正义联盟的github之家
+description: 程序员正义联盟的github之家
+keywords: 程序员正义联盟, 正义
 favicon: /favicon.ico
 timezone: Asia/Shenzhen
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: JiuJiuShu
-organization: OPPO, Inc.
-organization_url: http://www.oppo.com
-github_username: wenfengtou
+author: getease
+organization: ABC, Inc.
+organization_url: http://www.abc.com
+github_username: getease
 location: Shenzhen, China
-email: qianmayi@gmail.com
+email: abc@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: wenfengtou/mzlogin.github.io
+repository: getease/getease.github.io
 
 # ---------------- #
 #      Comments    #
@@ -97,3 +97,5 @@ lazy_load_disqus : true
 # ---------------- #
 google:
     analytics_id: UA-80669434-1
+
+theme: jekyll-theme-slate

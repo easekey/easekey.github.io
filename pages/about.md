@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 九九叔的github之家
-keywords: JiuJiuShu, 九九叔
+description: 正义的程序员联盟的github之家
+keywords: 正义的程序员联盟, 正义
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是九九叔。
+我是正义的程序员联盟。
 
 坚持就是胜利。
 
