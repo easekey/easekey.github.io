@@ -165,7 +165,7 @@ WTF？原来都是市场中**普通的原料和常规操作**！那用这些普�
 再在中文搜索引擎百度中搜索一下【未来生命科学研究院】关键词（[https://dwz.cn/LaCmFmRL](https://dwz.cn/LaCmFmRL)），翻了三页，均为无关企业及无关信息。
 
 但是当我们搜索【未来生命科学研究院 乳酸菌】关键词（[https://dwz.cn/P4FTKVc0](https://dwz.cn/P4FTKVc0)），则出现相当多的相关信息。另外在搜狐、大风号等大量主流媒体上均有【未来生命科学研究院】的NS乳酸菌产品的报道：
-+ 搜狐： [什么是NS乳酸菌？](http://www.sohu.com/a/295881366_100244809)）
++ 搜狐： [什么是NS乳酸菌？](http://www.sohu.com/a/295881366_100244809)
 + 大风号：[超强抗氧化，延缓衰老，保护眼睛](http://wemedia.ifeng.com/90600173/wemedia.shtml)
 
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCE615da8979ae519364702baed6e6c940b/1156)
