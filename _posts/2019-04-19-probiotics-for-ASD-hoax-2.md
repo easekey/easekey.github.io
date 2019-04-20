@@ -43,7 +43,7 @@ keywords: 骗局, 乳酸菌, 自闭症, 金锋, 日本未来生命
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCE0f0e8ef4c807882cc0cc4503fa42bcef/978)
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCE46f87daeff9ea6a4e9f2c8be3c512932/981)
 
-原来瑞士乳杆菌是普通的益生菌的一种，其确实耐胃酸的作用，能不被胃酸杀死能到底肠道，但是其他益生菌就到达不了肠道吗？根据[网上健康网站](https://www.jianke.com/gcpd/4308532.html)介绍，只要每天服用益生菌产品，<u>其他益生菌也都能到达肠道，瑞士乳杆菌也没有什么过人之处</u>。同时我们也可以从[《益生菌对肠道菌群的影响》](http://www.cnki.com.cn/Article/CJFDTotal-ZGSP201109013.htm)（知网文献）中看到服用益生菌对可以到达肠道的相关说明。
+根据[网上健康网站](https://www.jianke.com/gcpd/4308532.html)介绍，只要每天服用益生菌产品，<u>其他益生菌也都能到达肠道，瑞士乳杆菌也没有什么过人之处</u>。同时我们也可以从[《益生菌对肠道菌群的影响》](http://www.cnki.com.cn/Article/CJFDTotal-ZGSP201109013.htm)（知网文献）中看到服用益生菌对可以到达肠道的相关说明。
 
 那瑞士乳酸菌到底成本是多少呢？我们可以请教万能的阿里巴巴，按照批发价购买<u>一千克价格为427.5元人民币</u>，且量大从优。
 
