@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转载] 中科院教授金锋称炒菜时盐会分解 被指违反化学常识
+title: 转载 中科院教授金锋称炒菜时盐会分解 被指违反化学常识
 categories: 骗局
 description: 轶事
 keywords: 骗局, 乳酸菌, 自闭症, 金锋, 日本未来生命
