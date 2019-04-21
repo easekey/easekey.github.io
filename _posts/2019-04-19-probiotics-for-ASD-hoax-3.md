@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 转载中科院教授金锋称炒菜时盐会分解
-categories: 骗局
+categories: 轶事
 description: 轶事
 keywords: 骗局, 乳酸菌, 自闭症, 金锋, 日本未来生命
 ---
