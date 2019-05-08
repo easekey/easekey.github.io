@@ -167,7 +167,7 @@ WTF？原来都是市场中**普通的原料和常规操作**！那用这些普�
 
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCE615da8979ae519364702baed6e6c940b/1156)
 
-我们还发现【[广东新日生物科技有限公司]([http://www.gdnewsun.com/](http://www.gdnewsun.com/))】的首页就是【日本未来生命科学研究院】的NS乳酸菌产品。
+我们还发现【[广东新日生物科技有限公司](http://www.gdnewsun.com/)】的首页就是【日本未来生命科学研究院】的NS乳酸菌产品。
 “新日生物注册资本1000万,在2016年获得日本NSバイオジャパン株式会社和未来生命科学研究院授权,成为NS乳酸菌系列产品的大中华区(含港澳台)唯一指定总经销商。”
 
 ![markdown](http://note.youdao.com/yws/public/resource/063d97734173a3a5a43dabeee7d00d46/xmlnote/WEBRESOURCE521410a2aca0ea421addf21cb4fc2f30/1160)
